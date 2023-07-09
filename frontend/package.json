@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "clientfront": "npm start --prefix frontend"
+    "client": "npm start --prefix frontend"
   },
   "eslintConfig": {
     "extends": "react-app"
