@@ -20,7 +20,7 @@ npm install
 ### Run Server
 
 ```
-npm run server
+npm run server (if not able to run in production then change port number in .env & frontend/Package.json)
 ```
 
 
